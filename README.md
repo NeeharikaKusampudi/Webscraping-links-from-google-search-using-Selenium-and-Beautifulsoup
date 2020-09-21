@@ -1,8 +1,8 @@
 # Webscraping links from google search using Selenium and Beautifulsoup
 
 ## Introduction
-
-## Objectives
+Selenium is one of the web-scraping ways that has a cool feature. It lets you automate the process! It allows you to perform quick and short operations like performing search options, clicking the next page, hovering your mouse, etc.
+You can also refer my medium post
 
 ## Getting Started
 
